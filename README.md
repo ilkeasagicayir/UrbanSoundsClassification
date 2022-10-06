@@ -7,7 +7,7 @@ Datasets: https://drive.google.com/drive/folders/1O1BMBk2-6bbS-bA5j3yyCBqB5Xxl2O
 
 This project,using the “UrbanSounds8K” dataset, the sounds heard in the cities.
 
-I do a project on classification.I prepare a CNN (Convolutional Neural Network) model by preprocessing the spectrograms and train the model.
+I do a project on classification. I prepare a CNN (Convolutional Neural Network) model by preprocessing the spectrograms and train the model.
 
 Results : 0.8272 Validation Accuracy
 
